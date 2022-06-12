@@ -36,6 +36,7 @@ dependencies:
   - pytables=3.7.0
   - panel=0.13.0
   - hvplot=0.7.3
+  - blas=1.1
   - pip:
       - adskalman==0.3.11
       - pymc==4.0.0
